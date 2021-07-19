@@ -1,0 +1,34 @@
+title: NeMo ASR Primer Tutorial
+author: Chris Jose
+created: 2021-21-06
+updated: 2021-06-16
+license: CC BY-SA
+build: 0
+description: >
+  Train a end-to-end Jasper ASR model using the NVIDIA NeMo Toolkit!
+requirements:
+  - braceexpand
+  - editdistance
+  - frozendict
+  - inflect
+  - kaldi-io
+  - librosa
+  - marshmallow
+  - packaging
+  - ruamel.yaml
+  - soundfile
+  - sox
+  - unidecode
+  - kaldi-python-io
+  - kaldiio
+  - scipy
+  - pandas
+  - g2p_en
+  - pydub
+  - pyannote.core
+  - pyannote.metrics
+  - torch-stft
+  - ipywidgets
+  - matplotlib
+accelerator:
+  - GPU
